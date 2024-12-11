@@ -1,2 +1,5 @@
-# AdventOfCode
-Advent Of Code solutions - multiple years
+# Advent of Code puzzles
+
+* https://adventofcode.com/
+
+
